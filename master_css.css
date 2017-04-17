@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+    background: linear-gradient(to right, #98f5ff,#ffb6f8,#f5ff98);
+}
+#Top
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    font-size: 30px;
+}
+#Middle
+{
+    font-family: 'Gloria Hallelujah', cursive;
+    alignment-adjust:central;
+	text-align:center;
+	float:rig;
+}
+#Important
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+#Announcements
+{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+#Cosplay
+{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+#CossiePlay
+{
+    font-family: 'Exo', sans-serif;
+}
+#Price
+{
+    font-family: 'Source Serif Pro', serif;
+    alignment-adjust:central;
+	text-align:center;
+}
+#Contact
+{
+    font-family: 'Graduate', cursive;
+    alignment-adjust:central;
+	text-align:center;
+	float:rig;
+    font-size: 24px;
+}
+#Link
+{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 24px;
+}
+#sign
+{
+    font-family: 'Permanent Marker', cursive;
+    alignment-adjust:central;
+	text-align:center;
+	float:rig;
+    font-size: 24px;
+}
+#Party
+{
+    font-family: 'Courgette', cursive;
+    font-size: 23px;
+}
+#Footer
+{
+    alignment-adjust:central;
+	text-align:center;
+	float:rig;
+}
+#Wrapper
+{
+    alignment-adjust:central;
+    float: rig;
+    text-align: center;
+}
+#Images
+{
+    alignment-adjust:central;
+    float: rig;
+    text-align: center;
+}
